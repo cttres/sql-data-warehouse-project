@@ -7,7 +7,7 @@ The Gold Layer is the business-level data representation, structured to support 
 
 ## Data Model — Star Schema
 
-![Sales Data Mart — Star Schema](docs/data_mart.png)
+![Sales Data Mart — Star Schema](.docs/data_mart.png)
 
 ---
 
